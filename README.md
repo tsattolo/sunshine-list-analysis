@@ -13,7 +13,7 @@ people's future salaries from past salaries and demographic information.
 # Data Cleaning
 Download raw csv files from https://www.ontario.ca/page/public-sector-salary-disclosure.
 
-Run clean.sh and give it a glob that matches all the dowloaded csvs. Ex:
+Run clean.sh and give it a glob that matches all the dowloaded csvs (and nothing else). Ex:
 ```
 clean.sh "Datasets/*.csv"
 ```
